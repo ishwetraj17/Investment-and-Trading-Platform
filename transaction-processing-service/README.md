@@ -17,5 +17,5 @@ The Transaction Processing Service is responsible for handling transactions in t
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/transaction-processing-service.git
+git clone https://github.com/ishwetraj17/transaction-processing-service.git
 cd transaction-processing-service
