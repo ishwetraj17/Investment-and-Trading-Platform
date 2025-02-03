@@ -18,5 +18,5 @@ The User Service is responsible for managing user information, including user re
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/user-service.git
+git clone https://github.com/ishwetraj17/user-service.git
 cd user-service
