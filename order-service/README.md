@@ -18,5 +18,5 @@ The Order Service is part of the Investment and Trading Platform. This service h
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/order-service.git
+git clone https://github.com/ishwetraj17/order-service.git
 cd order-service
