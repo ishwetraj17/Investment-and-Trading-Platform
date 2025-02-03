@@ -18,5 +18,5 @@ The Stock Service is responsible for managing stock data, including stock availa
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/stock-service.git
+git clone https://github.com/ishwetraj17/stock-service.git
 cd stock-service
